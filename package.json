@@ -1,0 +1,19 @@
+{
+  "name": "pi_lights",
+  "version": "0.0.1",
+  "description": "This is the midi to lights project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nomad-mystic/pi-lights.git"
+  },
+  "author": "Keith Murphy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nomad-mystic/pi-lights/issues"
+  },
+  "homepage": "https://github.com/nomad-mystic/pi-lights#readme"
+}
